@@ -1,0 +1,22 @@
+Mission Briefing
+Starting Level %d.  Location: %s.  Year: %d.
+Several enemy aircraft spotted in vicinity:
+    1. %s:
+    2. %s:
+    3. %s:
+Initial aircraft supplied: %s
+Aircraft upgrade to %s complete: 
+%s missile capability developed: 
+Bomb the bunkers on the islands:
+Bomb the radar dishes on the islands:
+Bomb the cannons on the islands:
+Bomb the launchers on the islands:
+Bomb the bunkers in the sea:!
+Bomb the radar dishes in the sea:
+Bomb the cannons in the sea:
+Bomb the launchers in the sea:
+Bomb the %s enemy vessels:
+Do not bomb the defenseless civilian sailboats:
+Destroy the %s helicopters:
+Avoid the %s air mines:
+Shoot down the %s blimps:
